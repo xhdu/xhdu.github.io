@@ -1,11 +1,12 @@
-<!-- ---
+---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
---- -->
+---
 
 I am Xiaohu Du, a three-year PhD student at Huazhong University of Science and Technology (HUST), supervised by Prof. [Ming Wen](https://mingwen-cs.github.io/). I obtained my master degree at National University of Defense Technology (NUDT) in 2021, and obtained my bachelor degree at Chengdu University of Information Technology (CUIT) in 2017. My research interest is Large Language Model (LLM) and Software Engineering. Currently I am working on adversarial attacks on code LLMs and the applications of LLMs.
 
