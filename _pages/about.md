@@ -8,21 +8,27 @@ redirect_from:
   - /about.html
 ---
 
-I am Xiaohu Du, a three-year PhD student at Huazhong University of Science and Technology (HUST), supervised by Prof. [Ming Wen](https://mingwen-cs.github.io/). I obtained my master degree at National University of Defense Technology (NUDT) in 2021, and obtained my bachelor degree at Chengdu University of Information Technology (CUIT) in 2017. My research interest is Large Language Model (LLM) and Software Engineering. Currently I am working on adversarial attacks on code LLMs and the applications of LLMs.
+I am a third-year PhD student at Huazhong University of Science and Technology (HUST), supervised by Prof. [Ming Wen](https://mingwen-cs.github.io/). My research interests primarily focus on the application  and security of Large Language Models (LLMs). My prior works include: (1) Adversarial Textual Attack and Defense: Investigating word-level perturbation attacks on deep neural networks in both white-box and black-box scenarios, alongside developing robust adversarial training methods for enhanced defense. (2) Empirical Study of Federated Learning Bugs: A comprehensive analysis of the symptoms, root causes, and fix strategies for bugs encountered within federated learning systems.
+Currently, I am working on adversarial attack on source code against CodeLLMs, and improving LLM performance on downstream tasks through techniques such as instruction fine-tuning. These works primarily aim at security-centric code intelligence tasks, such as vulnerability detection.
 
 Education
 ======
-* Ph.D, School of Cyber Science and Engineering, Huazhong University of Science and Technology, 2021.9 - present 
-* MA.Eng, College of Computer, National University of Defense Technology, 2018.9 - 2021.6 
-* B.E., School of Computer Science, Chengdu University of Information Technology, 2013.9 - 2017.6
+- Huazhong University of Science and Technology (HUST), 2021.9 - present
+  - Ph.D, Cyberspace Security, Supervised by Prof. Ming Wen 
+- National University of Defense Technology (NUDT), 2018.9 - 2021.6 
+  - MA.Eng, Software Engineering, Supervised by Prof. Jie Yu
+- Chengdu University of Information Technology (CUIT), 2013.9 - 2017.6
+  - B.E., Computer Science and Technology
 
 Publications
 ======
-**(ESEC/FSE'23, CCF-A)** **Xiaohu Du**, Ming Wen, Zichao Wei, Shangwen Wang and Hai Jin. An Extensive Study on Adversarial Attack against Pre-trained Models of Code. In Proceedings of the 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering, San Francisco, USA.
+**[ESEC/FSE'23, <font color="red">CCF-A</font>]** **Xiaohu Du**, Ming Wen, Zichao Wei, Shangwen Wang and Hai Jin. An Extensive Study on Adversarial Attack against Pre-trained Models of Code. In Proceedings of the 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering, San Francisco, USA. [[Paper]](http://xhdu.github.io/files/FSE23-1.pdf) [[Code]](https://github.com/CGCL-codes/Attack_PTMC)
 
-**(ESEC/FSE'23, CCF-A)** **Xiaohu Du**, Xiao Chen, Jialun Cao, Ming Wen, Shing-Chi Cheung and Hai Jin. Understanding the Bug Characteristics and Fix Strategies of Federated Learning Systems. In Proceedings of the 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering, San Francisco, USA.
+**[ESEC/FSE'23, <font color="red">CCF-A</font>]** **Xiaohu Du**, Xiao Chen, Jialun Cao, Ming Wen, Shing-Chi Cheung and Hai Jin. Understanding the Bug Characteristics and Fix Strategies of Federated Learning Systems. In Proceedings of the 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering, San Francisco, USA. [[Paper]](http://xhdu.github.io/files/FSE23-2.pdf) [[Code]](https://github.com/CGCL-codes/FL_Bug_Study)
 
-**(IJCNN'21, CCF-C)** **Xiaohu Du**, Jie Yu, Shasha Li, Zibo Yi, Hai Liu, Jun Ma. Word-Level Adversarial Text with Robust Adversarial Training. In Proceedings of the 2021 International Joint Conference on Neural Networks, Virtual.
+**[IJCNN'21, CCF-C]** **Xiaohu Du**, Jie Yu, Shasha Li, Zibo Yi, Hai Liu, Jun Ma. Word-Level Adversarial Text with Robust Adversarial Training. In Proceedings of the 2021 International Joint Conference on Neural Networks, Virtual. [[Paper]](http://xhdu.github.io/files/IJCNN21.pdf)
+
+**[JCIP'21, CCF-B in Chinese]** **Xiaohu Du**, Hongming Wu, Zibo Yi, Shasha Li, Jun Ma, Jie Yu. Adversarial Text Attack and Defense: A Review. Journal of Chinese Information Processing. 2021, 35(8): 1-15. [[Paper]](http://xhdu.github.io/files/JCIP21.pdf)
 
 Service
 ======
