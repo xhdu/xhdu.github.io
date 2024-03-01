@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About"
-excerpt: "About me"
+title: ""
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -16,7 +16,7 @@ Currently, I am working on adversarial attack on source code against CodeLLMs, a
 
 Education
 ======
-- Huazhong University of Science and Technology (HUST) <span style="float:right;">2021.9 - present</span>
+- Huazhong University of Science and Technology (HUST) <span style="float:right;">2021.9 - Now</span>
   - Ph.D, Cyberspace Security, Supervised by Prof. Ming Wen 
 
 - National University of Defense Technology (NUDT) <span style="float:right;">2018.9 - 2021.6</span>
