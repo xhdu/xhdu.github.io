@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year PhD student at Huazhong University of Science and Technology (HUST), supervised by [Ming Wen](https://mingwen-cs.github.io/). My research interests primarily focus on the application  and security of Large Language Models (LLMs). My prior works include: 
+About me
+======
+I am a third-year PhD student at Huazhong University of Science and Technology (HUST), supervised by Prof. [Ming Wen](https://mingwen-cs.github.io/). My research interests primarily focus on the application  and security of Large Language Models (LLMs). My prior works include: 
 - Adversarial Textual Attack and Defense: Investigating word-level perturbation attacks on deep neural networks in both white-box and black-box scenarios, alongside developing robust adversarial training methods for enhanced defense. 
 - Empirical Study of Federated Learning Bugs: A comprehensive analysis of the symptoms, root causes, and fix strategies for bugs encountered within federated learning systems.
 
@@ -17,10 +19,10 @@ Currently, I am working on adversarial attack on source code against CodeLLMs, a
 Education
 ======
 - Huazhong University of Science and Technology (HUST) <span style="float:right;">2021.9 - Now</span>
-  - Ph.D, Cyberspace Security, Supervised by Ming Wen 
+  - Ph.D, Cyberspace Security, Supervised by Prof. Ming Wen 
 
 - National University of Defense Technology (NUDT) <span style="float:right;">2018.9 - 2021.6</span>
-  - MA.Eng, Software Engineering, Supervised by Jie Yu
+  - MA.Eng, Software Engineering, Supervised by Prof. Jie Yu
 
 - Chengdu University of Information Technology (CUIT) <span style="float:right;">2013.9 - 2017.6</span>
   - B.E., Computer Science and Technology
