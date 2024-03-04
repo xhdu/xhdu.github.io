@@ -14,7 +14,7 @@ I am a third-year PhD student at Huazhong University of Science and Technology (
 - Adversarial Textual Attack and Defense: Investigating word-level perturbation attacks on deep neural networks in both white-box and black-box scenarios, alongside developing robust adversarial training methods for enhanced defense. 
 - Empirical Study of Federated Learning Bugs: A comprehensive analysis of the symptoms, root causes, and fix strategies for bugs encountered within federated learning systems.
 
-Currently, I am working on adversarial attack on source code against CodeLLMs, and improving LLM performance on downstream tasks through techniques such as instruction fine-tuning. These works primarily aim at security-centric code intelligence tasks, such as vulnerability detection.
+Currently, I am working on adversarial attack on source code against CodeLLMs, and improving LLMs' performance on downstream tasks through techniques such as instruction fine-tuning. These works primarily aim at security-centric code intelligence tasks, such as vulnerability detection.
 
 Education
 ======
@@ -37,7 +37,7 @@ Publications
 
 **[JCIP'21, CCF-B in Chinese]** **Xiaohu Du**, Hongming Wu, Zibo Yi, Shasha Li, Jun Ma, Jie Yu. Adversarial Text Attack and Defense: A Review. Journal of Chinese Information Processing. 2021, 35(8): 1-15. [[Paper]](http://xhdu.github.io/files/JCIP21.pdf)
 
-Service
+Services
 ======
 - Reviewer
   - ACM Transactions on Asian and Low-Resource Language Information Processing
