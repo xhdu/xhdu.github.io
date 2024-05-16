@@ -29,6 +29,11 @@ Education
 
 Publications
 ======
+- **Generalization-Enhanced Code Vulnerability Detection via Multi-Task Instruction Fine-Tuning**  
+  <u>Xiaohu Du</u>, Ming Wen*, Jiahao Zhu, Zifan Xie, Bin Ji, Huijun Liu, Xuanhua Shi and Hai Jin  
+  **ACL 2024 Findings**  
+  [[Paper]](http://xhdu.github.io/files/ACL24.pdf) [[Code]](https://github.com/CGCL-codes/VulLLM)
+  
 - **An Extensive Study on Adversarial Attack against Pre-trained Models of Code**  
   <u>Xiaohu Du</u>, Ming Wen, Zichao Wei, Shangwen Wang and Hai Jin  
   **ESEC/FSE 2023**, <font color="red">CCF-A</font>  
