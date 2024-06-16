@@ -29,8 +29,8 @@ Education
 
 Work Experience
 ======
-- Huawei 2012 Laboratory, Shield Lab <span style="float:right;">Jun 2024 - Present</span>
-  - Research Intern, specializing in the security of LLM
+- Shield Lab (Shenzhen), Huawei 2012 Laboratory  <span style="float:right;">Jun 2024 - Present</span>
+  - Research Intern, specializing in the security of LLMs
 
 Publications
 ======
