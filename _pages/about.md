@@ -18,19 +18,24 @@ Currently, I am working on adversarial attack on source code against CodeLLMs, a
 
 Education
 ======
-- Huazhong University of Science and Technology (HUST) <span style="float:right;">2021.9 - Now</span>
+- Huazhong University of Science and Technology (HUST) <span style="float:right;">Sep 2021 - Present</span>
   - Ph.D, Cyberspace Security, Supervised by Prof. Ming Wen 
 
-- National University of Defense Technology (NUDT) <span style="float:right;">2018.9 - 2021.6</span>
+- National University of Defense Technology (NUDT) <span style="float:right;">Sep 2018 - Jun 2021</span>
   - MA.Eng, Software Engineering, Supervised by Prof. Jie Yu
 
-- Chengdu University of Information Technology (CUIT) <span style="float:right;">2013.9 - 2017.6</span>
+- Chengdu University of Information Technology (CUIT) <span style="float:right;">Sep 2013 - Jun 2017</span>
   - B.E., Computer Science and Technology
+
+Work Experience
+======
+- Huawei 2012 Laboratory, Shield Lab <span style="float:right;">Jun 2024 - Present</span>
+  - Research Intern, specializing in the security of LLM
 
 Publications
 ======
 - **Generalization-Enhanced Code Vulnerability Detection via Multi-Task Instruction Fine-Tuning**  
-  <u>Xiaohu Du</u>, Ming Wen*, Jiahao Zhu, Zifan Xie, Bin Ji, Huijun Liu, Xuanhua Shi and Hai Jin  
+  <u>Xiaohu Du</u>, Ming Wen, Jiahao Zhu, Zifan Xie, Bin Ji, Huijun Liu, Xuanhua Shi and Hai Jin  
   **ACL 2024 Findings**  
   [[Paper]](http://xhdu.github.io/files/ACL24.pdf) [[Code]](https://github.com/CGCL-codes/VulLLM)
   
