@@ -35,27 +35,27 @@ Work Experience
 Publications
 ======
 - **Generalization-Enhanced Code Vulnerability Detection via Multi-Task Instruction Fine-Tuning**  
-  <font color="slateblue">Xiaohu Du</font>, Ming Wen, Jiahao Zhu, Zifan Xie, Bin Ji, Huijun Liu, Xuanhua Shi and Hai Jin  
+  **<font color="slateblue">Xiaohu Du</font>**, Ming Wen, Jiahao Zhu, Zifan Xie, Bin Ji, Huijun Liu, Xuanhua Shi and Hai Jin  
   **Findings of ACL 2024**  
   [[Paper]](http://xhdu.github.io/files/ACL24.pdf) [[Code]](https://github.com/CGCL-codes/VulLLM)
   
 - **An Extensive Study on Adversarial Attack against Pre-trained Models of Code**  
-  <font color="slateblue">Xiaohu Du</font>, Ming Wen, Zichao Wei, Shangwen Wang and Hai Jin  
+  **<font color="slateblue">Xiaohu Du</font>**, Ming Wen, Zichao Wei, Shangwen Wang and Hai Jin  
   **ESEC/FSE 2023**, <font color="red">CCF-A</font>  
   [[Paper]](http://xhdu.github.io/files/FSE23-1.pdf) [[Code]](https://github.com/CGCL-codes/Attack_PTMC)
 
 - **Understanding the Bug Characteristics and Fix Strategies of Federated Learning Systems**  
-  <font color="slateblue">Xiaohu Du</font>, Xiao Chen, Jialun Cao, Ming Wen, Shing-Chi Cheung and Hai Jin  
+  **<font color="slateblue">Xiaohu Du</font>**, Xiao Chen, Jialun Cao, Ming Wen, Shing-Chi Cheung and Hai Jin  
   **ESEC/FSE 2023**, <font color="red">CCF-A</font>  
   [[Paper]](http://xhdu.github.io/files/FSE23-2.pdf) [[Code]](https://github.com/CGCL-codes/FL_Bug_Study)
 
 - **Word-Level Adversarial Text with Robust Adversarial Training**  
-  <font color="slateblue">Xiaohu Du</font>, Jie Yu, Shasha Li, Zibo Yi, Hai Liu, Jun Ma  
+  **<font color="slateblue">Xiaohu Du</font>**, Jie Yu, Shasha Li, Zibo Yi, Hai Liu, Jun Ma  
   **IJCNN 2021**, CCF-C  
   [[Paper]](http://xhdu.github.io/files/IJCNN21.pdf)
 
 - **Adversarial Text Attack and Defense: A Review**  
-  <font color="slateblue">Xiaohu Du</font>, Hongming Wu, Zibo Yi, Shasha Li, Jun Ma, Jie Yu  
+  **<font color="slateblue">Xiaohu Du</font>**, Hongming Wu, Zibo Yi, Shasha Li, Jun Ma, Jie Yu  
   **JCIP 2021**, CCF-B in Chinese  
   [[Paper]](http://xhdu.github.io/files/JCIP21.pdf)
 
