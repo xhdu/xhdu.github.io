@@ -1,0 +1,23 @@
+/* styles.css */
+
+body {
+    margin: 30px 50px;
+}
+a {
+    text-decoration: none;
+    color: #003399;
+}
+a:hover {
+    text-decoration: underline;
+    color: #8C1515;
+}
+.disabled {
+    pointer-events: none;
+    color: black;
+}
+#page-wrap {
+    width: 80%;
+    max-width: 900px;
+    margin: 20px auto 40px;
+    align-items: center;
+}

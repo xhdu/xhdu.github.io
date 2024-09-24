@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Publications - Xiaohu Du</title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+    <div id="page-wrap">
+        <table cellpadding="20" style="font-size: 17px">
+            <tr>
+                <td style="padding-left: 0;">
+                    <img src='images/duxiaohu.jpeg' height="220">
+                </td>
+                <td style="position: relative; top: -20px;">
+                    <h1> Xiaohu Du <span style="font-family:'WenYue GuDianMingChao', serif; font-size:18pt"> (杜小虎)</span> </h1>
+                    Ph.D. Student in Cyberspace Security<br>
+                    <a href="https://cse.hust.edu.cn/">School of Cyber Science and Engineering</a><br>
+                    <a href="https://www.hust.edu.cn/">Huazhong University of Science and Technology</a><br>
+
+                    <br>
+                    <b>Email</b>: <tt>&#120;&#104;&#100;&#117;&#64;&#104;&#117;&#115;&#116;&#46;&#101;&#100;&#117;&#46;&#99;&#110;</tt> <br>
+                    <a href="index.html">[Back to Home]</a>
+                </td>
+            </tr>
+        </table>
+
+        <h2><a name="publications" class="disabled">Publications</a></h2>
+
+        <ul id="publications-list">
+            <!-- All publications will be inserted here -->
+        </ul>
+    </div>
+
+    <script src="publications.js"></script>
+    <script>
+        const pubList = document.getElementById('publications-list');
+
+        publications.forEach(pub => {
+            const li = document.createElement('li');
+            li.innerHTML = `<a href="${pub.link}"><b>${pub.title}</b></a><br>
+            ${pub.authors}<br>${pub.conference}<br>
+            <font size="-1">`;
+
+            if (pub.pdf && pub.pdf !== '#') {
+                li.innerHTML += `[<a href="${pub.pdf}">PDF</a>] `;
+            }
+            if (pub.code && pub.code !== '#') {
+                li.innerHTML += `[<a href="${pub.code}">Code</a>] `;
+            }
+
+            li.innerHTML += `</font><br><br>`;
+            pubList.appendChild(li);
+        });
+    </script>
+</body>
+</html>
