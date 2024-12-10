@@ -2,6 +2,15 @@
 
 const publications = [
     {
+        title: "Multi-Turn Jailbreaking Large Language Models via Attention Shifting",
+        link: "",
+        authors: "<b>Xiaohu Du</b>, Fan Mo, Ming Wen, Tu Gu, Huadi Zheng, Hai Jin, and Jie Shi.",
+        conference: "In Proceedings of AAAI 2025, <span style='color: red;'>CCF-A</span>.",
+        pdf: "",
+        code: "",
+        selected: true
+    },
+    {
         title: "Generalization-Enhanced Code Vulnerability Detection via Multi-Task Instruction Fine-Tuning",
         link: "https://aclanthology.org/2024.findings-acl.625",
         authors: "<b>Xiaohu Du</b>, Ming Wen, Jiahao Zhu, Zifan Xie, Bin Ji, Huijun Liu, Xuanhua Shi, and Hai Jin.",
