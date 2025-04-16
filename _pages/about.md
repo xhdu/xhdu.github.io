@@ -26,7 +26,7 @@ For a full list, please refer to [publications](https://xhdu.github.io/publicati
 - **Multi-Turn Jailbreaking Large Language Models via Attention Shifting**  
   <u>Xiaohu Du</u>, Fan Mo, Ming Wen, Tu Gu, Huadi Zheng, Hai Jin, and Jie Shi  
   AAAI Conference on Artificial Intelligence ([**AAAI 2025**](https://aaai.org/conference/aaai/aaai-25/)), <font color="red">CCF-A</font>  
-  [[Paper](http://xhdu.github.io/files/AAAI25.pdf)]
+  [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/34553)]
 - **Generalization-Enhanced Code Vulnerability Detection via Multi-Task Instruction Fine-Tuning**  
   <u>Xiaohu Du</u>, Ming Wen, Jiahao Zhu, Zifan Xie, Bin Ji, Huijun Liu, Xuanhua Shi, and Hai Jin  
   Annual Meeting of the Association for Computational Linguistics ([**ACL 2024**](https://2024.aclweb.org/) Findings)  
