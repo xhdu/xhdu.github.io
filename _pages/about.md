@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I am a fourth-year Ph.D. student at Huazhong University of Science and Technology (HUST), supervised by Assoc.Prof. [Ming Wen](https://mingwen-cs.github.io/). Prior to that, I obtained my MA.Eng degree in 2021 from [National University of Defense Technology](https://www.nudt.edu.cn/), majoring in Software Engineering under the supervision of Prof. Jie Yu. 
+I earned my Ph.D. from Huazhong University of Science and Technology (HUST) in June 2025, supervised by Assoc.Prof. [Ming Wen](https://mingwen-cs.github.io/). Prior to that, I obtained my master's degree in 2021 from [National University of Defense Technology](https://www.nudt.edu.cn/), majoring in Software Engineering under the supervision of Prof. Jie Yu. 
 
 My research interests encompass **LLM security** and **LLM applications**. Specifically, I investigate adversarial attacks and jailbreaking attacks within the realm of LLM security. Additionally, I apply LLMs to enhance code vulnerability detection, aiming to improve the robustness and effectiveness of security measures in software systems.
 
@@ -47,6 +47,7 @@ Work Experience
 Services
 ======
 Conference Reviewer (PC Member):
+- AAAI Conference on Artificial Intelligence (AAAI 2026)
 - ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025)
 - International Conference on Learning Representations (ICLR 2025)
 - International Conference on Computational Linguistics (COLING 2025)
@@ -58,7 +59,7 @@ Journal Reviewer:
 - ACM Transactions on Asian and Low-Resource Language Information Processing
 - Information and Software Technology
 
-I also served as a co-reviewer for multiple top-tier conferences and journals (e.g., FSE, ASE, ISSTA, TSE).
+I also served as a co-reviewer for multiple top-tier conferences and journals (e.g., FSE, ICSE, ASE, ISSTA, TSE).
 
 Awards
 ======
