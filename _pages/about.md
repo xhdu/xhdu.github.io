@@ -15,14 +15,18 @@ My research interests encompass **LLM security** and **LLM applications**. Speci
 If you are interesting in working with me, always feel free to contact me through email or Wechat.
 
 
-Selected Publications
+Publications
 ======
 For a full list, please refer to [publications](https://xhdu.github.io/publications) or [Google Scholar](https://scholar.google.com/citations?user=mEYlrFMePvMC).
 
+- **Refusal-Aware Red Teaming: Exposing Inconsistency in Safety Evaluations**  
+  Yongkang Chen, <u>Xiaohu Du</u>, Xiaotian Zou, Chongyang Zhao, Huan Deng, Hu LI, and Xiaohui Kuang  
+  The 2025 Conference on Empirical Methods in Natural Language Processing ([**EMNLP 2025**](https://2025.emnlp.org/)), <font color="red">CCF-B</font>  
+  [[Paper](http://xhdu.github.io/)]
 - **Statement-level Adversarial Attack on Vulnerability Detection Models via Out-Of-Distribution Features**  
   <u>Xiaohu Du</u>, Ming Wen, Haoyu Wang, Zichao Wei, and Hai Jin  
   ACM International Conference on the Foundations of Software Engineering ([**FSE 2025**](https://conf.researchr.org/home/fse-2025)), <font color="red">CCF-A</font>  
-  [[Paper](http://xhdu.github.io/)]
+  [[Paper](https://dl.acm.org/doi/10.1145/3729403)] [[Code](https://github.com/CGCL-codes/SLODA)]
 - **Multi-Turn Jailbreaking Large Language Models via Attention Shifting**  
   <u>Xiaohu Du</u>, Fan Mo, Ming Wen, Tu Gu, Huadi Zheng, Hai Jin, and Jie Shi  
   AAAI Conference on Artificial Intelligence ([**AAAI 2025**](https://aaai.org/conference/aaai/aaai-25/)), <font color="red">CCF-A</font>  
@@ -56,6 +60,7 @@ Conference Reviewer (PC Member):
 - International Conference on High Performance Computing and Communications (HPCC 2022/2024)
 
 Journal Reviewer:
+- IEEE Transactions on Dependable and Secure Computing
 - ACM Transactions on Asian and Low-Resource Language Information Processing
 - Information and Software Technology
 
