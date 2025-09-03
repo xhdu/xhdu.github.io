@@ -51,13 +51,12 @@ Work Experience
 Services
 ======
 Conference Reviewer (PC Member):
+- International Conference on Learning Representations (ICLR 2026/2025)
 - AAAI Conference on Artificial Intelligence (AAAI 2026)
 - ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025)
-- International Conference on Learning Representations (ICLR 2025)
 - International Conference on Computational Linguistics (COLING 2025)
 - International Conference on Mining Software Repositories (MSR 2025)
 - International Joint Conference on Neural Networks (IJCNN 2025)
-- International Conference on High Performance Computing and Communications (HPCC 2022/2024)
 
 Journal Reviewer:
 - IEEE Transactions on Dependable and Secure Computing
